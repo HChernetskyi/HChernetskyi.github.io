@@ -1,0 +1,12 @@
+/* Slide 09 (#1) */
+/* To restrict styles to the current slide, panel, or example use .slide[data-cid="slide-09-01460953"] */
+@media (max-width: 1334px) {
+  .slide[data-cid=slide-09-01460953] form.slides-form .input-9,
+.slide[data-cid=slide-09-01460953] form.slides-form .button-9 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+    width: 300px;
+  }
+}
